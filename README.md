@@ -9,6 +9,6 @@
 1. Wykresy
 1. Tabele - filtrowanie i sortowanie
 
-### Zznajdowanie maksimum w zbiorze
+### Scratch: znajdowanie maksimum w zbiorze
 https://scratch.mit.edu/projects/919921399/  
 Skończyłeś? Poćwicz na keybr.com
