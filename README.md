@@ -1,5 +1,7 @@
 # lessons
 
-## Lesson #2 scratch: finding max in a set:
+## Lekcja #2 scratch: znajdowanie maksimum w zbiorze:
+### Excel przypomnienie
+
 https://scratch.mit.edu/projects/919921399/
-Finished? Practice on keybr.com
+Skończyłeś? Practice on keybr.com
