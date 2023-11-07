@@ -1,7 +1,14 @@
 # lessons
 
-## Lekcja #2 scratch: znajdowanie maksimum w zbiorze:
-### Excel przypomnienie
+## Lekcja #2 scratch
 
+### Excel przypomnienie
+#### Przeciąganie
+#### Formuły
+#### Wypełnienie błyskawiczne
+#### Wykresy
+#### Tabele - filtrowanie i sortowanie
+
+### Zznajdowanie maksimum w zbiorze
 https://scratch.mit.edu/projects/919921399/
-Skończyłeś? Practice on keybr.com
+Skończyłeś? Poćwicz na keybr.com
