@@ -3,12 +3,12 @@
 ## Lekcja #2 scratch
 
 ### Excel przypomnienie
-#### Przeciąganie
-#### Formuły
-#### Wypełnienie błyskawiczne
-#### Wykresy
-#### Tabele - filtrowanie i sortowanie
+1. Przeciąganie
+1. Formuły
+1. Wypełnienie błyskawiczne
+1. Wykresy
+1. Tabele - filtrowanie i sortowanie
 
 ### Zznajdowanie maksimum w zbiorze
-https://scratch.mit.edu/projects/919921399/
+https://scratch.mit.edu/projects/919921399/  
 Skończyłeś? Poćwicz na keybr.com
