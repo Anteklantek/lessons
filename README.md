@@ -14,5 +14,6 @@ https://scratch.mit.edu/projects/919921399/
 Skończyłeś? Poćwicz na keybr.com
 
 ## Lekcja #3 cwiczenie excel
-https://docs.google.com/spreadsheets/d/1eKan25YonkKEbvuyJJWJDa6YEpsWdPMT/edit?usp=drive_link&ouid=116711237374671818765&rtpof=true&sd=true
-
+1. Pobierz i wykonaj: https://docs.google.com/spreadsheets/d/1eKan25YonkKEbvuyJJWJDa6YEpsWdPMT/edit?usp=drive_link&ouid=116711237374671818765&rtpof=true&sd=true
+2. Wgraj plik na https://easyupload.io/
+3. https://forms.gle/FpPuUnWfi6tqp4dw9
