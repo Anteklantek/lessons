@@ -12,3 +12,7 @@
 ### Scratch: znajdowanie maksimum w zbiorze
 https://scratch.mit.edu/projects/919921399/  
 Skończyłeś? Poćwicz na keybr.com
+
+## Lekcja #3 cwiczenie excel
+https://docs.google.com/spreadsheets/d/1eKan25YonkKEbvuyJJWJDa6YEpsWdPMT/edit?usp=drive_link&ouid=116711237374671818765&rtpof=true&sd=true
+
