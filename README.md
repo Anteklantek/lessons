@@ -17,3 +17,9 @@ Skończyłeś? Poćwicz na keybr.com
 1. Pobierz i wykonaj: https://docs.google.com/spreadsheets/d/1eKan25YonkKEbvuyJJWJDa6YEpsWdPMT/edit?usp=drive_link&ouid=116711237374671818765&rtpof=true&sd=true
 2. Wgraj plik na https://easyupload.io/
 3. https://forms.gle/FpPuUnWfi6tqp4dw9
+
+## Lekcja 21.11.23
+1. Iteracja
+2. Pętla
+3. Podwójna pętla
+4. Tabliczka mnożenia
