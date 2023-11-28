@@ -26,7 +26,7 @@ Skończyłeś? Poćwicz na keybr.com
 
 ##Lekcja 28.11.23
 1. Dokończenie poprzednich zadań
-2. Python
+2. Python https://www.online-python.com/
 3. Drukowanie
 4. Zmienne
 5. Pętle
