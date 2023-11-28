@@ -24,7 +24,7 @@ Skończyłeś? Poćwicz na keybr.com
 3. Podwójna pętla
 4. Tabliczka mnożenia
 
-##Lekcja 28.11.23
+## Lekcja 28.11.23
 1. Dokończenie poprzednich zadań
 2. Python https://www.online-python.com/
 3. Drukowanie
