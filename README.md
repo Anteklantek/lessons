@@ -23,3 +23,11 @@ Skończyłeś? Poćwicz na keybr.com
 2. Pętla
 3. Podwójna pętla
 4. Tabliczka mnożenia
+
+##Lekcja 28.11.23
+1. Dokończenie poprzednich zadań
+2. Python
+3. Drukowanie
+4. Zmienne
+5. Pętle
+6. Listy
