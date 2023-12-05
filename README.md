@@ -31,3 +31,8 @@ Skończyłeś? Poćwicz na keybr.com
 4. Zmienne
 5. Pętle
 6. Listy
+
+## Lekcja 5.12.23
+1. Python przypomnienie
+2. Input z konsoli
+3. Sumowanie inputu użytkownika
