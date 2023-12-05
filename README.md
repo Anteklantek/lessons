@@ -1,6 +1,6 @@
 # lessons
 
-## Lekcja #2 scratch
+## 7.11.23 Lekcja #2 scratch
 
 ### Excel przypomnienie
 1. Przeciąganie
