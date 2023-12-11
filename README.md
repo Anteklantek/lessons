@@ -41,15 +41,15 @@ Skończyłeś? Poćwicz na keybr.com
 1. Python przypomnienie
 2. Losowanie liczb
 3. Polecenie dla zaawansowanych
-   3. Spróbuj napisać program w którym w pętli będziesz zgadywać liczbę wylosowaną przez komputer.
-   3. Wylosuj liczbę przy pomocy komendy randint(0,10) i zapisz do zmiennej wylosowana. Pamiętaj aby na górze dodać import: from random import randint
-   3. W pętli while pobieraj input użytkownika while True: wprowadzona_liczba = int(input()
-   3. Następnie sprawdź czy wprowadzona_liczba == wylosowana przy pomocy if <warunek>:
-   3. Jeśli tak to przerwij pętle. Użyj słowa kluczowego break; (bez nawiasu na końcu)
-   3. Poinformuj użytkownika, że udało mu się zgadnąć liczbę.
-   3. Jeśli to Ci się uda spróbuj zaimplementować grę w kamień papier nożyczki.
-   3. Niech 1 oznacza papier, 2 kamień a 3 nożyczki
-   3. Niech komputer wylosuje liczbę ozaczającą przedmiot
-   3. Następnie pobierz liczbę od użytkownika
-   3. Za pomocą paru if-ów sprawdź kto wygrał.
-   3. Powodzenia!
+      3. Spróbuj napisać program w którym w pętli będziesz zgadywać liczbę wylosowaną przez komputer.
+      3. Wylosuj liczbę przy pomocy komendy randint(0,10) i zapisz do zmiennej wylosowana. Pamiętaj aby na górze dodać import: from random import randint
+      3. W pętli while pobieraj input użytkownika while True: wprowadzona_liczba = int(input()
+      3. Następnie sprawdź czy wprowadzona_liczba == wylosowana przy pomocy if <warunek>:
+      3. Jeśli tak to przerwij pętle. Użyj słowa kluczowego break; (bez nawiasu na końcu)
+      3. Poinformuj użytkownika, że udało mu się zgadnąć liczbę.
+      3. Jeśli to Ci się uda spróbuj zaimplementować grę w kamień papier nożyczki.
+      3. Niech 1 oznacza papier, 2 kamień a 3 nożyczki
+      3. Niech komputer wylosuje liczbę ozaczającą przedmiot
+      3. Następnie pobierz liczbę od użytkownika
+      3. Za pomocą paru if-ów sprawdź kto wygrał.
+      3. Powodzenia!
