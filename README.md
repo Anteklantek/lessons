@@ -43,7 +43,7 @@ Skończyłeś? Poćwicz na keybr.com
 # Polecenie dla zaawansowanych
 1. Spróbuj napisać program w którym w pętli będziesz zgadywać liczbę wylosowaną przez komputer.
 3. Wylosuj liczbę przy pomocy komendy randint(0,10) i zapisz do zmiennej wylosowana. Pamiętaj aby na górze dodać import: from random import randint
-3. W pętli while pobieraj input użytkownika while True: wprowadzona_liczba = int(input()
+3. W pętli while pobieraj input użytkownika while True: wprowadzona_liczba = int(input())
 3. Następnie sprawdź czy wprowadzona_liczba == wylosowana przy pomocy if <warunek>:
 3. Jeśli tak to przerwij pętle. Użyj słowa kluczowego break; (bez nawiasu na końcu)
 3. Poinformuj użytkownika, że udało mu się zgadnąć liczbę.
