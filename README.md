@@ -36,3 +36,20 @@ Skończyłeś? Poćwicz na keybr.com
 1. Python przypomnienie
 2. Input z konsoli
 3. Sumowanie inputu użytkownika
+
+## Lekcja 12.12.23
+1. Python przypomnienie
+2. Losowanie liczb
+3. Polecenie dla zaawansowanych
+   3.1 Spróbuj napisać program w którym w pętli będziesz zgadywać liczbę wylosowaną przez komputer.
+   3.1 Wylosuj liczbę przy pomocy komendy randint(0,10) i zapisz do zmiennej wylosowana. Pamiętaj aby na górze dodać import: from random import randint
+   3.2 W pętli while pobieraj input użytkownika while True: wprowadzona_liczba = int(input()
+   3.3 Następnie sprawdź czy wprowadzona_liczba == wylosowana przy pomocy if <warunek>:
+   3.1 Jeśli tak to przerwij pętle. Użyj słowa kluczowego break; (bez nawiasu na końcu)
+   3.1 Poinformuj użytkownika, że udało mu się zgadnąć liczbę.
+   3.1 Jeśli to Ci się uda spróbuj zaimplementować grę w kamień papier nożyczki.
+   3.1 Niech 1 oznacza papier, 2 kamień a 3 nożyczki
+   3.1 Niech komputer wylosuje liczbę ozaczającą przedmiot
+   3.2 Następnie pobierz liczbę od użytkownika
+   3.1 Za pomocą paru if-ów sprawdź kto wygrał.
+   3.2 Powodzenia!
