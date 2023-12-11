@@ -40,7 +40,7 @@ Skończyłeś? Poćwicz na keybr.com
 ## Lekcja 12.12.23
 1. Python przypomnienie
 2. Losowanie liczb
-3. Polecenie dla zaawansowanych
+#Polecenie dla zaawansowanych
       3. Spróbuj napisać program w którym w pętli będziesz zgadywać liczbę wylosowaną przez komputer.
       3. Wylosuj liczbę przy pomocy komendy randint(0,10) i zapisz do zmiennej wylosowana. Pamiętaj aby na górze dodać import: from random import randint
       3. W pętli while pobieraj input użytkownika while True: wprowadzona_liczba = int(input()
