@@ -39,6 +39,7 @@ Skończyłeś? Poćwicz na keybr.com
 
 ## Lekcja 12.12.23
 https://www.w3schools.com/python/trypython.asp?filename=demo_compiler
+https://programiz.pro/ide/python
 1. Python przypomnienie
 2. Losowanie liczb
 # Polecenie dla zaawansowanych
