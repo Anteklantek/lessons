@@ -38,6 +38,7 @@ Skończyłeś? Poćwicz na keybr.com
 3. Sumowanie inputu użytkownika
 
 ## Lekcja 12.12.23
+https://www.w3schools.com/python/trypython.asp
 1. Python przypomnienie
 2. Losowanie liczb
 # Polecenie dla zaawansowanych
