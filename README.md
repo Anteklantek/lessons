@@ -71,7 +71,8 @@ https://programiz.pro/ide/python
 10. Wypisz wiek użytkownika po wprowadzeniu przez niego daty.
 #### Trudne
 1. Wypisz choinkę z gwiazdek o wysokości wprowadzonej przezy użytkownika
-   ```
+
+```
       *
     ****
  *********
