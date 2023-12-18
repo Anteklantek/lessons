@@ -57,8 +57,8 @@ https://programiz.pro/ide/python
 3. Powodzenia!
 
 ## Lekcja 19.12.23
-###Zadania
-####Łatwe
+### Zadania
+#### Łatwe
 1. Wypisz nieparzyste liczby od 1 do 1000.
 2. Wypisz liczby podzielne przez 3 od 200 do 500.
 3. Wypisz kwadraty liczb od 1 do 20
