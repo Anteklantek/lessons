@@ -71,11 +71,13 @@ https://programiz.pro/ide/python
 10. Wypisz wiek użytkownika po wprowadzeniu przez niego daty.
 #### Trudne
 1. Wypisz choinkę z gwiazdek o wysokości wprowadzonej przezy użytkownika
+   ```
       *
     ****
  *********
    ******
 ************
+```
 2. Wypisz sumę liczb wprowadzonych przez użytkownika. 0 kończy wprowadzanie kolejnych liczb.
 3. Wypisz najmniejszą liczbę z listy zdefiniowanej w zmiennej "lista". Niech kod działa po modyfikacji listy.
 5. Napisz grę w zgadywanie liczby wylosowane przez uzytkownika. Niech program co turę wypisuje czy użytkownik podał większą czy mniejszą liczbę.
