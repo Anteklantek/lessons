@@ -55,3 +55,17 @@ https://programiz.pro/ide/python
 3. Następnie pobierz liczbę od użytkownika
 3. Za pomocą paru if-ów sprawdź kto wygrał.
 3. Powodzenia!
+
+## Lekcja 19.12.23
+###Zadania
+####Łatwe
+1. Wypisz nieparzyste liczby od 1 do 1000.
+2. Wypisz liczby podzielne przez 3 od 200 do 500.
+3. Wypisz kwadraty liczb od 1 do 20
+4. Wypisz resztę z dzielenia przez 11 z liczb od 30 do 50
+5. Wypisz sumę 3 liczb wprowadzonych przez użytkownika
+6. Wypisz "tak, jest parzysta" jeśli liczba wprowadzona przez uzytkownika jest parzysta
+7. Wypisz "tak, jest mniejsza niż 10" jeśli liczba wprowadzona przez użytkownika jest mniesza niż 10
+8. Wypisz pole prostokąta o bokach wprowadzonych przez użytkownika.
+9. Wypisz mniejszą liczbę z dwóch liczb wprowadzonych przez użytkownika
+10. 
