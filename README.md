@@ -83,3 +83,11 @@ https://programiz.pro/ide/python
 3. Wypisz najmniejszą liczbę z listy zdefiniowanej w zmiennej "lista". Niech kod działa po modyfikacji listy.
 5. Napisz grę w zgadywanie liczby wylosowane przez uzytkownika. Niech program co turę wypisuje czy użytkownik podał większą czy mniejszą liczbę.
 6. Wypisz sumę "ważoną" liczb z listy zdefiniowanej w kodzie w zmiennej lista. Nie licz nieparzystych liczb. Parzyste liczby licz podwójnie. Niech kod działa po modyfikacji listy.
+
+#### Pomoce dydatktyczne
+gdzie kodzimy: www.online-python.com
+zmienne: https://kt.academy/pl/article/py-zmienne
+pętla for i while: https://kt.academy/pl/article/py-for
+reszta z dzielenia: https://kt.academy/pl/article/py-wartosci
+input użytkownika: https://pracownik.kul.pl/files/115165/public/awrspii/python/python_wczytywanie_if.pdf
+listy: https://kt.academy/pl/article/py-listy
