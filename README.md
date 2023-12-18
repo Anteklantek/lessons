@@ -82,4 +82,4 @@ https://programiz.pro/ide/python
 2. Wypisz sumę liczb wprowadzonych przez użytkownika. 0 kończy wprowadzanie kolejnych liczb.
 3. Wypisz najmniejszą liczbę z listy zdefiniowanej w zmiennej "lista". Niech kod działa po modyfikacji listy.
 5. Napisz grę w zgadywanie liczby wylosowane przez uzytkownika. Niech program co turę wypisuje czy użytkownik podał większą czy mniejszą liczbę.
-6. Wypisz sumę "ważoną" liczb z listy zdefiniowanej w kodzie w zmiennej lista. Nie licz nieparzystych liczb. Parzyste liczby licz podwójnie.
+6. Wypisz sumę "ważoną" liczb z listy zdefiniowanej w kodzie w zmiennej lista. Nie licz nieparzystych liczb. Parzyste liczby licz podwójnie. Niech kod działa po modyfikacji listy.
