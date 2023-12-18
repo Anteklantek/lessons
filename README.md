@@ -91,3 +91,4 @@ https://programiz.pro/ide/python
 1. reszta z dzielenia: https://kt.academy/pl/article/py-wartosci
 1. input użytkownika: https://pracownik.kul.pl/files/115165/public/awrspii/python/python_wczytywanie_if.pdf
 1. listy: https://kt.academy/pl/article/py-listy
+2. if, czyli jak zrobić coś w zależności od warunku: https://kt.academy/pl/article/py-warunki
