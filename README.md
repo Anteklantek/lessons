@@ -85,9 +85,9 @@ https://programiz.pro/ide/python
 6. Wypisz sumę "ważoną" liczb z listy zdefiniowanej w kodzie w zmiennej lista. Nie licz nieparzystych liczb. Parzyste liczby licz podwójnie. Niech kod działa po modyfikacji listy.
 
 #### Pomoce dydatktyczne
-gdzie kodzimy: www.online-python.com
-zmienne: https://kt.academy/pl/article/py-zmienne
-pętla for i while: https://kt.academy/pl/article/py-for
-reszta z dzielenia: https://kt.academy/pl/article/py-wartosci
-input użytkownika: https://pracownik.kul.pl/files/115165/public/awrspii/python/python_wczytywanie_if.pdf
-listy: https://kt.academy/pl/article/py-listy
+1.gdzie kodzimy: www.online-python.com
+1.zmienne: https://kt.academy/pl/article/py-zmienne
+1.pętla for i while: https://kt.academy/pl/article/py-for
+1.reszta z dzielenia: https://kt.academy/pl/article/py-wartosci
+1.input użytkownika: https://pracownik.kul.pl/files/115165/public/awrspii/python/python_wczytywanie_if.pdf
+1.listy: https://kt.academy/pl/article/py-listy
