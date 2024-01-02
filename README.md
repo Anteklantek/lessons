@@ -92,3 +92,22 @@ https://programiz.pro/ide/python
 1. input użytkownika: https://pracownik.kul.pl/files/115165/public/awrspii/python/python_wczytywanie_if.pdf
 1. listy: https://kt.academy/pl/article/py-listy
 2. if, czyli jak zrobić coś w zależności od warunku: https://kt.academy/pl/article/py-warunki
+
+## Lekcja 02.01.2024
+1. Wszystkiego dobrego w nowym roku
+2. Język html
+3. Podstawowa struktura html:
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tytuł</title>
+</head>
+<body>
+   <!-- zawartość -->
+</body>
+</html>
+
+```
+4. Podstawowe tagi: https://kompan.pl/blog/podstawowe-znaczniki-html/
+5. Zrób stronę z przynajmniej jednym wyliczeniem, jednym zdjęciem, jednym linkiem i jednym paragrafem.
