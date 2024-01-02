@@ -111,3 +111,7 @@ https://programiz.pro/ide/python
 ```
 4. Podstawowe tagi: https://kompan.pl/blog/podstawowe-znaczniki-html/
 5. Zrób stronę z przynajmniej jednym wyliczeniem, jednym zdjęciem, jednym linkiem i jednym paragrafem.
+
+## Lekcja **.01.2024
+1. https://yay.boo/
+
