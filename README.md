@@ -112,6 +112,46 @@ https://programiz.pro/ide/python
 4. Podstawowe tagi: https://kompan.pl/blog/podstawowe-znaczniki-html/
 5. Zrób stronę z przynajmniej jednym wyliczeniem, jednym zdjęciem, jednym linkiem i jednym paragrafem.
 
-## Lekcja **.01.2024
+## Lekcja 16.01.2024
+1. Style css
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  max-width: 600px;
+  padding: 20px;
+  margin: auto;
+}
+img {
+max-width: 100%;
+}
+p {
+font: Italian;
+}
+</style>
+</head>
+<body>
+<marquee>WOW đźŻ </marquee>
+ <div class="topnav">
+  <a href="helmut.html">Helmut</a>
+  <a href="tramino.html">Tramino</a>
+</div> 
+<h1>Wow tramwaje</h1>
+<p>Szybko i bezpiecznie</p>
+<a href="https://www.mpk.poznan.pl/pojazdy/tramwaje-liniowe/">Składy w poznaniu</a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/113_Silesian_Interurbans%2C_Citadis_car%2C_Bytom.jpg" alt="Italian Trulli">
+</body>
+</html> 
+```
 1. https://yay.boo/
+2. Menu
+```
+ <div class="topnav">
+  <a href="helmut.html">Helmut</a>
+  <a href="tramino.html">Tramino</a>
+</div> 
+```
 
