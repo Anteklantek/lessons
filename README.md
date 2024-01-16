@@ -146,7 +146,6 @@ font: Italian;
 </body>
 </html> 
 ```
-1. https://yay.boo/
 2. Menu
 ```
  <div class="topnav">
@@ -154,4 +153,5 @@ font: Italian;
   <a href="tramino.html">Tramino</a>
 </div> 
 ```
+3. [yay](https://yay.boo/)https://yay.boo/
 
