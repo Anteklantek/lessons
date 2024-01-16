@@ -154,4 +154,5 @@ font: Italian;
 </div> 
 ```
 3. [yay](https://yay.boo/)https://yay.boo/
+4. Selektory: klasy, znacznika, konkretnego elementu
 
