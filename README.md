@@ -1,5 +1,22 @@
 # lessons
 
+## Lekcja 30.01.2024
+1. Przypomnienie
+    2.  Struktura dokumentu
+    3.  Najważniejsze znaczniki
+        4.  html
+        5.  head
+        6.  title
+        7.  body
+        8.  p
+        9.  img
+        10.  h1
+        11.  a
+        12.  style
+    4. CSS selektory
+2. Quiz
+   
+
 ## 7.11.23 Lekcja #2 scratch
 
 ### Excel przypomnienie
