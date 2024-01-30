@@ -14,7 +14,6 @@
         11.  a
         12.  style
     4. CSS selektory
-2. Quiz
    
 
 ## 7.11.23 Lekcja #2 scratch
