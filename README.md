@@ -1,5 +1,53 @@
 # lessons
 
+## Lekcja 06.02.2024
+1. Przypomnienie css
+2. Przyporządkuj właściwości do odpowiednich znaczników tak aby strona cyceron.html wyglądała jak poniżej.
+```
+<style>
+    hmm co tutaj {
+        max-width: 600px;
+        padding: 20px;
+        margin: auto;
+        background: wheat;
+    }
+    a co tutaj{
+        color: sienna;
+    }
+    ciekawe co tutaj {
+        color: steelblue;
+    }
+    jaki to moze być znacznik {
+        font-style: italic;
+    }
+    coś wylosuję i zadziała {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    dziwne u mnie działa {
+        border: solid;
+        border-radius: 25px;;
+    }
+</style>
+```
+3. Tłumaczenia słów dla ułatwienia
+| angielski  | polski              |
+|------------|---------------------|
+| width      | szerokość           |
+| padding    | margines wewnętrzny |
+| max        | maksymalny          |
+| background | tło                 |
+| color      | kolor               |
+| font       | czcionka            |
+| border     | ramka               |
+| margin     | margines zewnętrzny |
+| radius     | promień             |
+   
+<img width="1284" alt="obraz" src="https://github.com/Anteklantek/lessons/assets/12928011/4adbbfa0-40f9-4815-a740-44931cbacff3">
+
+
 ## Lekcja 30.01.2024
 1. Przypomnienie
     2.  Struktura dokumentu
