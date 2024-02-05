@@ -33,6 +33,8 @@
 </style>
 ```
 3. Tłumaczenia słów dla ułatwienia
+
+
 | angielski  | polski              |
 |------------|---------------------|
 | width      | szerokość           |
