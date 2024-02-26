@@ -1,10 +1,69 @@
 # lessons
 
 ## Lekcja 27.02.2024
-1. Konta google
+1. Konto google
 2. Gemini
 3. ChatGPT
 4. Kontynuujemy robienie strony
+
+3 kolumny na stronie:
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain
+}
+</style>
+</head>
+<body>
+
+<h2>Three Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa; overflow:hidden">
+    <h2>Column 1</h2>
+    <p>Some text..dfsadfasdfdasdfasdfasdfasdfasfasdfasdfasd</p>
+      <img src="https://sdpl.b-cdn.net/17158-large_default/obrazek-obrazki-10paz.jpg">
+
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#ccc;">
+    <h2>Column 3</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+```
 
 ## Lekcja 06.02.2024
 1. Przypomnienie css
