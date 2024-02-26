@@ -1,5 +1,11 @@
 # lessons
 
+## Lekcja 27.02.2024
+1. Konta google
+2. Gemini
+3. ChatGPT
+4. Kontynuujemy robienie strony
+
 ## Lekcja 06.02.2024
 1. Przypomnienie css
 2. Przyporządkuj właściwości do odpowiednich znaczników tak aby strona cyceron.html wyglądała jak poniżej.
