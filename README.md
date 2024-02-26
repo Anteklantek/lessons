@@ -2,7 +2,7 @@
 
 ## Lekcja 27.02.2024
 1. Konto google
-  1. Bezpieczeństwo haseł
+    1. Bezpieczeństwo haseł
 2. Gemini
 3. ChatGPT
 4. Kontynuujemy robienie strony
