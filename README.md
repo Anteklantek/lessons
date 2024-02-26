@@ -4,8 +4,14 @@
 1. Konto google
     1. Bezpieczeństwo haseł
 2. Gemini
-3. ChatGPT
-4. Kontynuujemy robienie strony
+    1. Co ciekawego zwiedzić w Krakowie?
+    2. Czemu ten html nie działa?
+    3. Jakie potrawy mogę zrobić z X?
+    4. Nie mam pomysłu o czym zrobić stronę internetową, masz jakiś pomysł?
+    5. Zakładam zespół k-pop, masz pomysł na nazwę?
+    6. Napisz mi bajkę o smokach i świniach.
+4. ChatGPT
+5. Kontynuujemy robienie strony
 
 3 kolumny na stronie:
 ```
