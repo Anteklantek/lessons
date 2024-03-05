@@ -1,4 +1,17 @@
 # lessons
+## Lekcja 05.03.2024
+1. Wymagania co do strony:
+    1. co najmniej 10 różnych znaczników (tagów)
+    2. co najmniej 2 linki
+    3. co najmniej jedna podstrona
+    4. co najmniej jeden obrazek
+    5. ciekawa treść
+    6. estetyczny wygląd
+    7. co najmniej jedna tabela lub lista
+2. Wymagania dodatkowe:
+   1. element animowany
+   2. użycie java scriptu do manipulowania zawartością strony
+   3. własna treść (a nie tylko kopiowana z internetu)
 
 ## Lekcja 27.02.2024
 1. Konto google
