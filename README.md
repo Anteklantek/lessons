@@ -1,4 +1,7 @@
 # lessons
+## Lekcja 17.03.2024
+1. [yay](https://yay.boo/)
+
 ## Lekcja 05.03.2024
 1. Wymagania co do strony:
     1. co najmniej 10 różnych znaczników (tagów)
@@ -304,6 +307,6 @@ font: Italian;
   <a href="tramino.html">Tramino</a>
 </div> 
 ```
-3. [yay](https://yay.boo/)https://yay.boo/
+3. [yay](https://yay.boo/)
 4. Selektory: klasy, znacznika, konkretnego elementu
 
