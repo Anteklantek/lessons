@@ -4,6 +4,7 @@
 1. Wyszukiwarki: google, duckduckgo, bing
 2. Google: site:, OR, "", -, obrazki, duże obrazki
 3. duckduck go AI
+4. Bing copilot
 
 ## Lekcja 17.03.2024
 1. [yay](https://yay.boo/)
