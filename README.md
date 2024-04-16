@@ -1,4 +1,10 @@
 # lessons
+## Lekcja 16.04.2024
+1. Indeksowanie
+1. Wyszukiwarki: google, duckduckgo, bing
+2. Google: site:, OR, "", -, obrazki, duże obrazki
+3. duckduck go AI
+
 ## Lekcja 17.03.2024
 1. [yay](https://yay.boo/)
 
