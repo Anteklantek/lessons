@@ -1,4 +1,29 @@
 # lessons
+## Lekcja 23.04.2024
+1. Prezentacja
+2. Różne narzędzia do prezentacji
+    1. Google Slides
+    2. Microsoft Power Point
+    3. Canva
+    4. Prezi
+5. Tematy prezentacji:
+    6. Czy AI zabierze nam pracę?
+    7. Najciekawsze aplikacje na VR
+    8. Zalety Open Source Software
+    9. Ciekłe chłodzenie w komputerze
+    10. Dlaczego klawiatury mechaniczne są lepsze?
+    11. Najciekawsze zastosowanie mikrokomputerów (Raspberry Pi)
+    12. Najciekawsze gadżety z quickstartera
+    13. Bramki logiczne w minecrafcie
+    14. Jak tworzy się grafikę 3D
+    15. Drukarki 3D sposób działania i zastosowania
+    16. Naciekawsze funkcje Tesli
+    17. Działanie systemu ILS na lotniskach
+    18. Tworzenie muzyki przy pomocy oprogramowania
+    19. Zaawansowane programy do obróbki grafiki (Gimp, Photoshop)
+    20. Propozycja zaaprobowana przez nauczyciela.
+
+
 ## Lekcja 16.04.2024
 1. Indeksowanie
 1. Wyszukiwarki: google, duckduckgo, bing
