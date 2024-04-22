@@ -6,7 +6,7 @@
     2. Microsoft Power Point
     3. Canva
     4. Prezi
-5. Tematy prezentacji:
+5. Tematy prezentacji (zespoły maks 2 osobowe):
     1. Czy AI zabierze nam pracę?
     2. Najciekawsze aplikacje na VR
     8. Zalety Open Source Software
