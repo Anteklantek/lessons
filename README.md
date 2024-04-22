@@ -7,8 +7,8 @@
     3. Canva
     4. Prezi
 5. Tematy prezentacji:
-    6. Czy AI zabierze nam pracę?
-    7. Najciekawsze aplikacje na VR
+    1. Czy AI zabierze nam pracę?
+    2. Najciekawsze aplikacje na VR
     8. Zalety Open Source Software
     9. Ciekłe chłodzenie w komputerze
     10. Dlaczego klawiatury mechaniczne są lepsze?
