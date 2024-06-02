@@ -13,7 +13,7 @@
     9. Ciekłe chłodzenie w komputerze
     10. Dlaczego klawiatury mechaniczne są lepsze?
     11. Najciekawsze zastosowanie mikrokomputerów (Raspberry Pi)
-    12. Najciekawsze gadżety z quickstartera
+    12. Najciekawsze gadżety z kickstartera
     13. Bramki logiczne w minecrafcie
     14. Jak tworzy się grafikę 3D
     15. Drukarki 3D sposób działania i zastosowania
